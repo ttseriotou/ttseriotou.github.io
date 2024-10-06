@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "☕️ Talia Tseriotou"
+title: "Hello there ☕️"
 author_profile: true
 redirect_from: 
   - /about/
