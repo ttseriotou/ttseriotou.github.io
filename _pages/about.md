@@ -14,8 +14,3 @@ My research interests lie on representation learning, temporality, memory-augmen
 Before my doctoral studies I worked for 4.5 years in the industry as a Senior AI Data Scientist leading AI projects and building Machine Learning and NLP models for production-level applications. Specifically I worked for [Chubb Insurance](https://about.chubb.com/) under the supervision of Chris Glaze in New York, Singapore and London and for Media Assembly in New York. I hold an MS in Applied Mathematics from Columbia University and a BA/MEng in Chemical Engineering from University of Cambridge.
 
 In my free time I enjoy cooking, traveling, occusional spinning and yoga classes and quality time with friends and family. 
-
-
-#News
-#======
-#Like 
